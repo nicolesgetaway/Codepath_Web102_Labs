@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import viteLogo from '/vite.svg'
 import './App.css'
-import APIForm from './Components/APIform';
+import APIForm from './Components/APIform.jsx';
 
 const ACCESS_KEY = import.meta.env.VITE_APP_ACCESS_KEY;
 
